@@ -59,7 +59,7 @@ function login() {
 
             }).then(() => {
                 // permite ejecutar la URL
-                window.location.href = "landing.html", "blank";
+                window.location.href = "/tarea2/landing.html", "blank";
                 
             });
 

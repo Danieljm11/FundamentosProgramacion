@@ -96,7 +96,7 @@ p {
     overflow: hidden; 
     position: relative; 
     width: 100%; 
-    background-image: url(/imagenes/marcas-background.webp); 
+    background-image: url(/tarea2/imagenes/marcas-background.webp); 
     background-attachment: fixed; 
     background-size: cover; 
     -moz-background-size: cover; 
@@ -172,7 +172,7 @@ p {
     overflow: hidden; 
     position: relative; 
     width: 100%; 
-    background-image: url(/imagenes/repuestos-fondo.jpg); 
+    background-image: url(/tarea2/imagenes/repuestos-fondo.jpg); 
     background-attachment: fixed; 
     background-size: cover; 
     -moz-background-size: cover; 
