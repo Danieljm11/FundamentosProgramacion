@@ -18,7 +18,7 @@ body {
 }
 
 .container2 {
-    background-image: url("/imagenes/fondo-moto.jpg");
+    background-image: url("/tarea3/imagenes/fondo-moto.jpg");
     background-size: cover;
     height: 500px;
     animation: efect 5s ease-in-out infinite alternate;

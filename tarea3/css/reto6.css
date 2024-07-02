@@ -4,7 +4,7 @@ header {
 }
 
 .banner {
-    background-image: url("/imagenes/fondo-reto6.jpg");
+    background-image: url("/tarea3/imagenes/fondo-reto6.jpg");
     height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
